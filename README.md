@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZeshuLiu&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeshuLiu" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeshuLiu" /> </div>
